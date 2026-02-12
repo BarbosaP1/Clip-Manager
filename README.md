@@ -8,7 +8,7 @@ A **Windows Forms** application designed to organize *Rick and Morty* scenes by:
 - Duration  
 - Title search  
 
-Perfect for creating **edits, theory videos, funny moments compilations and general Rick and Morty content creator** and finding any scene in seconds.
+Perfect for creating **edits**, **theory videos**, **funny moments**, **compilations** and general **Rick and Morty content creation** and finding any scene in seconds.
 
 ---
 
@@ -21,10 +21,10 @@ Perfect for creating **edits, theory videos, funny moments compilations and gene
 ![Filters](https://barbosaapi.onrender.com/pictures/clipmanager2)
 
 ### Import Clip Menu
-![Import Clip](https://barbosaapi.onrender.com/pictures/clipmanager4)
+![Import Clip](https://barbosaapi.onrender.com/pictures/clipmanager3)
 
 ### Search Result Preview
-![Search Result](https://barbosaapi.onrender.com/pictures/clipmanager3)
+![Search Result](https://barbosaapi.onrender.com/pictures/clipmanager4)
 
 ---
 
